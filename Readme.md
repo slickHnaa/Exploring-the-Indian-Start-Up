@@ -1,4 +1,4 @@
-# CA-Projects-template-submission-repo
+# Exploring-the-Indian-Start-Up
 The focus of the project is to give insights into the Indian start-up ecosystem. By the use of data analysis and visualization, we aim to identify current trends and potential opportunities for growth.
 
 ## Summary
@@ -14,6 +14,7 @@ The focus of the project is to give insights into the Indian start-up ecosystem.
 `Henry Nii Ayitey-Adjin`
 
 `Data Analyst`
+
 `Azubi Africa`
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henry-nii-ayitey-adjin-slick-data/) 
